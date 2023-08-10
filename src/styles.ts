@@ -1,7 +1,5 @@
 import styled, { createGlobalStyle } from 'styled-components'
 
-// import Theme from './themes/temaDefault'
-
 const EstiloGlobal = createGlobalStyle`
 *{
   margin: 0;
